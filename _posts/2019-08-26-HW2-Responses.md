@@ -44,14 +44,18 @@ date: 2019-08-26
   to make sure that everything is tested as it should be, though people will 
   write there own tests, and someone to manage merging of the code and handling 
   merge problems.
+  
+  
+Articles:
 
-Brooks, "No Silver Bullet Essence and Accidents of Software Engineering," in 
-    Computer, vol. 20, no. 4, pp. 10-19, April 1987. doi: 10.1109/MC.1987.1663532
+  Brooks, "No Silver Bullet Essence and Accidents of Software Engineering," in 
+      Computer, vol. 20, no. 4, pp. 10-19, April 1987. doi: 10.1109/MC.1987.1663532
 
-Neville-Neil, "Kode Vicious Cherry Picking and the Scientific Method," in 
-    Communications of the ACM, vol. 56, no. 8, pp. 32-33, August 2013.
-    DOI: 10.1145/2492007.2492019
+  Neville-Neil, "Kode Vicious Cherry Picking and the Scientific Method," in 
+      Communications of the ACM, vol. 56, no. 8, pp. 32-33, August 2013.
+      doi: 10.1145/2492007.2492019
 
-Potvin and LevenBerg, "Why Google Stores Billions of Lines of Code in a Single 
-    Repository," in Communications of the ACM, vol. 59, no. 7, pp. 78-87 , 
-    July 2016. DOI: https://doi.org/10.1145/2854146
+  Potvin and LevenBerg, "Why Google Stores Billions of Lines of Code in a Single 
+      Repository," in Communications of the ACM, vol. 59, no. 7, pp. 78-87, 
+      July 2016. DOI: https://doi.org/10.1145/2854146
+ 

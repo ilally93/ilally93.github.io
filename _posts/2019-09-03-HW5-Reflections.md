@@ -18,7 +18,9 @@ date: 2019-09-03
     are/ were ready to be used in the healthcare field.  The AI with asthma is 
     still in the testing phase, which is good.  It seems like the radiation machine 
     was not tested correctly though.  It is likely that since the previous models 
-    of the machines worked just fine, then testing may have been cut short.
+    of the machines worked just fine, then testing may have been cut short.  
+    These software weren't up to code on the resilience activities of recognition, 
+    resistances, recovery, and reinstatement.
     
       The article "Why Software Projects Fail, and the Traps You Can Avoid That 
     Could Spell Disaster", lists insufficient testing as one of the problems.  
@@ -27,6 +29,19 @@ date: 2019-09-03
     The FBI Sentinel Project seemed to carry many of these traits that cause 
     software failure.
     
-      The sentinel project went over budget, 
+      The sentinel project went over budget, went over town, and even switched 
+    contractors.  The articles about Sentinel were written in 2010, 2012, and 2014, 
+    if that tells you anything about the time management.  Additionally, this 
+    project was meant specifically for security, which is discussed in chapter 13 
+    and 14.  The final problem that seems to be across all the software in the 
+    articles was the lack of transparency after the radiation mishaps and the 
+    lack of a working Sentinel project.
+    
+      There are obviously so many ways software projects can fail and keeping 
+    an eye on the traps discussed.  Finally, if something does mess up, it is 
+    the ethical duty of the software engineers to be transparent.
     
    *[article](https://www.smithsonianmag.com/innovation/will-artificial-intelligence-improve-health-care-for-everyone-180972758/?utm_source=facebook.com&utm_medium=socialmedia&fbclid=IwAR24FD7XQriiRi3WXcEwx_x-DFSfzM12auwrQt3Uh_3KH177CV-rjMSLPPA)
+   
+   Assigned Readings: 
+   [1](http://www.cs.cofc.edu/~bowring/classes/csci%20362/docs/Therac25Accidents.html) [2](http://www.cs.cofc.edu/~bowring/classes/csci%20362/docs/The%20Radiation%20Boom%20-%20After%20Stroke%20Scans,%20Patients%20Face%20Serious%20Health%20Risks%20-%20NYTimes.com.pdf) [3](https://www.ic3.gov/media/2016/160317.aspx) [4](http://www.cs.cofc.edu/~bowring/classes/csci%20362/docs/levesonSoftwareAccidentsSpacecraft.pdf) [5](http://www.cs.cofc.edu/~bowring/classes/csci%20362/docs/SpectrumFBIcaseFileSytem.pdf) [6](http://www.washingtonpost.com/wp-dyn/content/article/2010/10/20/AR2010102006754.html) [7](https://www.pcmag.com/news/301010/years-late-and-millions-over-budget-fbis-sentinel-finally) [8](https://spectrum.ieee.org/riskfactor/computing/it/fbis-500-million-sentinel-case-management-system-still-has-major-operational-kinks-ig-reports) [9](https://www.entrepreneur.com/article/329019)

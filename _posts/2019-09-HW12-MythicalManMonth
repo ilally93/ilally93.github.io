@@ -1,0 +1,8 @@
+---
+layout: post
+title: "HW12: Mythical Man Month"
+date: 2019-09-19
+---
+
+      Predicting where software and programming is heading is a very loaded
+    question

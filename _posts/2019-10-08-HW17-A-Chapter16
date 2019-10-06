@@ -1,0 +1,12 @@
+---
+layout: post
+title: "HW117-A: Chapter 16"
+date: 2019-10-08
+---
+
+  Exercise 16.9:
+    Q: Design the interfaces of components that might be used in a system for
+       an emergency control room.  You should design interfaces for a
+       call-logging component that records calls made, and a vehicle discovery
+       component that, given a post code (zip code) and an incident type, finds
+       the nearest suitable vehicle to be dispatched to the incident.

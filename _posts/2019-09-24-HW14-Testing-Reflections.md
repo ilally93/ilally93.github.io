@@ -7,8 +7,8 @@ date: 2019-09-24
       I knew that there was testing in the software development process, but
     I really didn't think it would be this much.  The fact that more of your
     project should be testing than actual coding seems overwhelming.  The
-    "Why Testing?" section (1.4.1) in "Software Testing Techniques", that we have discussed in class previously
-    is interesting.
+    "Why Testing?" section (1.4.1) in "Software Testing Techniques",
+    that we have discussed in class previously is interesting.
 
       In classes up to this point, we really have been stuck mainly in phase 0,
     testing is no different from debugging, with a small amount of phase 1,

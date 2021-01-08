@@ -27,12 +27,12 @@ date: 2021-01-07
         My soldering isn't top notch anymore, but it was simple enough to just solder
     the switches into place.
 
-    ![diagram](https://github.com/ilally93/ilally93.github.io/blob/master/photos/solder.jpg?raw=true)
+![diagram](https://github.com/ilally93/ilally93.github.io/blob/master/photos/solder.jpg?raw=true)
 
-    ![diagram](https://github.com/ilally93/ilally93.github.io/blob/master/photos/keeb.jpg?raw=true)
+![diagram](https://github.com/ilally93/ilally93.github.io/blob/master/photos/keeb.jpg?raw=true)
 
     And a final result:
-    ![diagram](https://github.com/ilally93/ilally93.github.io/blob/master/photos/firstBuild.gif?raw=true)
+![diagram](https://github.com/ilally93/ilally93.github.io/blob/master/photos/firstBuild.gif?raw=true)
 
         Anyway, it isn't anything fancy, but I'm pretty happy with it.  I think
     for my next build I'll go with switches with a little less resistance, but

@@ -14,6 +14,7 @@ date: 2021-01-07
     I did not lube my switches or stabilizers either.
 
     Parts:
+    
     - [Case](https://kbdfans.com/collections/60-layout-case/products/60-plastic-case?variant=36020992077)
     - [PCB](https://kbdfans.com/collections/60/products/dz60-60-pcb)
     - [Plate](https://kbdfans.com/collections/60-layout-plate-1/products/dz60-cnc-aluminum-plate)
@@ -32,6 +33,7 @@ date: 2021-01-07
 ![diagram](https://github.com/ilally93/ilally93.github.io/blob/master/photos/keeb.jpg?raw=true)
 
     And a final result:
+
 ![diagram](https://github.com/ilally93/ilally93.github.io/blob/master/photos/firstBuild.gif?raw=true)
 
         Anyway, it isn't anything fancy, but I'm pretty happy with it.  I think

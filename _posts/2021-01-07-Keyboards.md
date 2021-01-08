@@ -6,8 +6,9 @@ date: 2021-01-07
 
         So, I impulse buy projects.... often.  Obviously quarantining has been
     weird for everyone.  I've been at my computer a lot and have started watching
-    a lot of streamers.  One of those streamers has been [Kristopher Yee](https://www.twitch.tv/kristoferyee), who builds keyboards.  After watching two streams,
-    I decided, "I'm gonna build a keyboard!".  
+    a lot of streamers.  One of those streamers has been [Kristopher Yee](https://www.twitch.tv/kristoferyee)
+    , who builds keyboards.  After watching two streams, I decided, "I'm gonna
+    build a keyboard!".  
 
         I kind of just wanted to start with something cheap so that if I messed up
     it wouldn't be a big deal.  Don't tell any of the hardcore keyboard people, but
@@ -38,5 +39,6 @@ date: 2021-01-07
         Anyway, it isn't anything fancy, but I'm pretty happy with it.  I think
     for my next build I'll go with switches with a little less resistance, but
     I am happy for now.  Of course, now I'm obsessed with mechanical keyboards
-    and I just want to build more.  I find [this keyboard](https://drop.com/buy/infinity-ergodox#overview), but it's out of stock.  So obviously, my solution
-    is that I'm going to design my own keyboard (pcb and case).  Wish me luck!
+    and I just want to build more.  I find [this keyboard](https://drop.com/buy/infinity-ergodox#overview),
+    but it's out of stock.  So obviously, my solution is that I'm going to design
+    my own keyboard (pcb and case).  Wish me luck!

@@ -15,15 +15,15 @@ date: 2021-01-07
     I did not lube my switches or stabilizers either.
 
     **Parts:**
-     [Case](https://kbdfans.com/collections/60-layout-case/products/60-plastic-case?variant=36020992077)
-     [PCB](https://kbdfans.com/collections/60/products/dz60-60-pcb)
-     [Plate](https://kbdfans.com/collections/60-layout-plate-1/products/dz60-cnc-aluminum-plate)
-     [Switches](https://kbdfans.com/collections/cherry-switches/products/cherry-rgb-switches-black-red-blue-brown-sliver-10pcs?variant=18561931608122)
+    - [Case](https://kbdfans.com/collections/60-layout-case/products/60-plastic-case?variant=36020992077)
+    - [PCB](https://kbdfans.com/collections/60/products/dz60-60-pcb)
+    - [Plate](https://kbdfans.com/collections/60-layout-plate-1/products/dz60-cnc-aluminum-plate)
+    - [Switches](https://kbdfans.com/collections/cherry-switches/products/cherry-rgb-switches-black-red-blue-brown-sliver-10pcs?variant=18561931608122)
         - So I asked Yee's discord about what switches to get, because I do have
         a tremor which makes me double type on keyboards that are too sensitive.  
         I ended up going with the cherry mx blacks based on their suggestion.
-     [Keycaps](https://www.amazon.com/gp/product/B08FTGL1RL/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
-     [Stabilizers](https://kbdfans.com/collections/keyboard-stabilizer/products/gmk-screw-in-stabilizers?variant=22154915348528)
+    - [Keycaps](https://www.amazon.com/gp/product/B08FTGL1RL/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
+    - [Stabilizers](https://kbdfans.com/collections/keyboard-stabilizer/products/gmk-screw-in-stabilizers?variant=22154915348528)
 
         My soldering isn't top notch anymore, but it was simple enough to just solder
     the switches into place.

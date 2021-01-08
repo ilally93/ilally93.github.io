@@ -13,9 +13,10 @@ date: 2021-01-07
     it wouldn't be a big deal.  Don't tell any of the hardcore keyboard people, but
     I did not lube my switches or stabilizers either.
 
-    Parts:
-    
+    **Parts:**
+
     - [Case](https://kbdfans.com/collections/60-layout-case/products/60-plastic-case?variant=36020992077)
+    
     - [PCB](https://kbdfans.com/collections/60/products/dz60-60-pcb)
     - [Plate](https://kbdfans.com/collections/60-layout-plate-1/products/dz60-cnc-aluminum-plate)
     - [Switches](https://kbdfans.com/collections/cherry-switches/products/cherry-rgb-switches-black-red-blue-brown-sliver-10pcs?variant=18561931608122)

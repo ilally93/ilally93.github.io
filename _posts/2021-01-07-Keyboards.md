@@ -6,7 +6,7 @@ date: 2021-01-07
 
 So, I impulse buy projects.... often.  Obviously quarantining has been
 weird for everyone.  I've been at my computer a lot and have started watching
-a lot of streamers.  One of those streamers has been [Kristopher Yee](https://www.twitch.tv/kristoferyee), who builds keyboards.  After watching two streams,
+a lot of streamers.  One of those streamers has been [Kristofer Yee](https://www.twitch.tv/kristoferyee), who builds keyboards.  After watching two streams,
 I decided, "I'm gonna build a keyboard!".  
 
 I kind of just wanted to start with something cheap so that if I messed up

@@ -4,21 +4,21 @@ title: "What's Happening?"
 date: 2021-02-11
 ---
 
-**TOS Exercises 7.2.2, 7.8, 7.9**
-  7.2.2
+**TOS Exercises 7.2.2, 7.8, 7.9**  
+  7.2.2  
     ![](https://github.com/ilally93/ilally93.github.io/blob/master/photos/diff.PNG?raw=true)  
 
-    Removing the flag (-u) only shows the lines that have been changed between the files.  
+    Removing the flag (-u) only shows the lines that have been changed between the files.   
 
-  7.8
+  7.8  
     ![](https://github.com/ilally93/ilally93.github.io/blob/master/photos/foo-foo-bar-patch.PNG?raw=true)
 
-  7.9
-    ![](https://github.com/ilally93/ilally93.github.io/blob/master/photos/makeFail.PNG?raw=true)
+  7.9  
+    ![](https://github.com/ilally93/ilally93.github.io/blob/master/photos/makeFail.PNG?raw=true)  
 
     The make failed not due to other files that I did not mess with.
 
-**Reflection on "Behavioral Science of Software Engineering" and, "Information Needs: Lessons**
+**Reflection on "Behavioral Science of Software Engineering" and, "Information Needs: Lessons**    
 **for Programming Tools" "Gender Inclusivity as a Quality Requirement: Practices and Pitfalls"**
 
     I actually chose three articles to write about, because I started with "Behavioral

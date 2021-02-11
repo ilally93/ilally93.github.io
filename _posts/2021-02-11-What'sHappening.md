@@ -5,13 +5,14 @@ date: 2021-02-11
 ---
 
 **TOS Exercises 7.2.2, 7.8, 7.9**  
+       
   7.2.2  
     ![](https://github.com/ilally93/ilally93.github.io/blob/master/photos/diff.PNG?raw=true)  
 
     Removing the flag (-u) only shows the lines that have been changed between the files.   
 
   7.8  
-    ![](https://github.com/ilally93/ilally93.github.io/blob/master/photos/foo-foo-bar-patch.PNG?raw=true)
+    ![](https://github.com/ilally93/ilally93.github.io/blob/master/photos/foo-bar-patch.PNG?raw=true)
 
   7.9  
     ![](https://github.com/ilally93/ilally93.github.io/blob/master/photos/makeFail.PNG?raw=true)  

@@ -6,7 +6,7 @@ date: 2021-03-11
 
 SD Chapter 8, TOS Chapter 8, TOS Chapter 9  
 
-    Chapter 8: Explaining the Code  
+    **Chapter 8: Explaining the Code**  
     Technical Writing - Planning, Content, Writing, Internationalisation/Localisation,
     Review.  
     Once again, we're talking waterfall method.  
@@ -16,10 +16,10 @@ SD Chapter 8, TOS Chapter 8, TOS Chapter 9
     2.  Writing skills are not top notch.  
     3.  Time consuming!  
 
-    Chapter 9: Release Early, Release Often
+    **Chapter 9: Release Early, Release Often**
     Textbook releases.  
 
-    SD Chapter 8: Preparing to Deploy  
+    **SD Chapter 8: Preparing to Deploy**
         User support includes feedback and responsiveness.  
 
     8.1 Technical Writing  
@@ -44,4 +44,13 @@ SD Chapter 8, TOS Chapter 8, TOS Chapter 9
                             Layout, Examples and Illustrations, Indexing and
                             Searching, Live Demo
     Online Help - User Access and Navigation, Step-by-step Guidance, Screen
-                    Shots and Thumbnails 
+                    Shots and Thumbnails
+
+    8.3 Other User Support  
+    Examples are user training, feedback surveys, presentations, and forums.  
+    User training is more so used for troubleshooting initially and get feedback
+    on documentation.  
+    Final Presentation Questions:
+    1.  What problem does your project solve?
+    2.  How does your software work overall? (Demo)  
+    3. / 4. What are the highlights and lowlights?  
